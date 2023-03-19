@@ -1,0 +1,11 @@
+{ 
+    "other" : { "words" : {},"points" : 0 },
+    "serious" : { "words" : {},"points": -1 },
+    "humour": { "words" : {}, "points": 1 },
+    "love": { "words" : {}, "points": 1 },
+    "angriness": { "words" : {}, "points": -1 },
+    "joy": { "words" : {}, "points": 1 },
+    "sadness" : { "words" : {},"points": -1 },
+    "fear": { "words" : {}, "points": -1 },
+    "brave": {"words" : {}, "points": 1 }
+}

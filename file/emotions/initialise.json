@@ -1,0 +1,11 @@
+{ 
+    "other" : {"autre" : 1 },
+    "angriness" : {"colère":5,"haine":1,"fureur":1,"venger":1,"détester":1 },
+    "brave" : {"courage":5,"aventure": 1, "route": 1, "voyage":1,"braver":1 },
+    "fear" : {"peur":5,"angoisse":1,"tremblements":1,"terreur":1,"effrayer": 1},
+    "humour" : {"humour":5,"blague":1, "rire": 1, "drôle": 1,"rigoler":1 },
+    "joy" : {"joie":5,"fête" : 1,"ami" : 1,"manger" : 1,"société": 1 },
+    "love" : {"amour":5,"amoureux":1,"sexe" : 1, "aime": 1 },
+    "sadness" : {"tristesse":5,"solitude":1,"désespoir": 1,"nostalgie" : 1,"morfondre" : 1 },
+    "serious" : {"scientifique":5, "mathématique": 1,"autobiographie" : 1,"politique": 1 }
+}
